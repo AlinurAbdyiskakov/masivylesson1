@@ -9,3 +9,6 @@
 // // теперь arr = ["I",  , "home"];
 // alert( arr.length ); // 3
 ["Bilbo", "Gandalf", "Nazgul"].forEach(alert);
+let user = [{id:1,name:"Alinur"},
+{id:2,name:"Abdyiskakov"},
+{id:3,name:"Kubatbecovish"}];
